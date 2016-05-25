@@ -33,3 +33,8 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | 3 | [Pandas Data Frame](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/03-Pandas.ipynb) | [03 - Baby names](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/exercises/03-BabyNames.ipynb) |
 | 4 | [Linear Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/04-linear_regression.ipynb) | [04 - Bikes Rent](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/exercises/04-BikesRent.ipynb) |
 | 5 | [Logistic Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/05-logistic_regression.ipynb) | [05 - Intrusion Detection](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/exercises/05-IntrusionDetection.ipynb) |
+|  | []() | []() |
+|  | []() | []() |
+|  | []() | []() |
+|  | []() | []() |
+|  | []() | []() |
